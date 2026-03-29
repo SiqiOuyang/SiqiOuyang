@@ -21,7 +21,7 @@
 
 ## 📫 How to reach me
 - Email: 202505180522@smail.xtu.edu.cn
-- GitHub: [@ouyangsqi](https://github.com/SiqiOuyang)
+- GitHub: [@SiqiOuyang](https://github.com/SiqiOuyang)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiqiOuyang&show_icons=true&theme=tokyonight)
